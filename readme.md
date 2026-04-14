@@ -1,4 +1,4 @@
-# OpenResume
+# RExUME
 
 OpenResume is an experimental **AI-powered resume builder** designed to transform how professionals create and optimize their resumes. Unlike traditional static tools, OpenResume uses Large Language Models (LLMs) to generate dynamic, context-aware resumes that adapt to job descriptions and user needs.
 
